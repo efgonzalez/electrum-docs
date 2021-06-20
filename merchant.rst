@@ -35,8 +35,8 @@ Create and use your merchant wallet
 -----------------------------------
 
 Create a wallet on your protected machine, as you want to keep your
-cryptocurrency safe. If anybody compromise your merchant server, s/he will be able
-to access read-only version of your wallet only and won't be able to spent currency.
+cryptocurrency safe. If anybody compromises your merchant server, s/he would only be able
+to access the read-only version of your wallet but won't be able to spend currency.
 
 Please notice that the potential intruder still will be able to see your
 addresses, transactions and balance, though. It's also recommended to use a
